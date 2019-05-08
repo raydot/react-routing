@@ -1,4 +1,4 @@
-import React ferom 'react'
+import React from 'react'
 
 class Users extends React.Component {
 	render() {
